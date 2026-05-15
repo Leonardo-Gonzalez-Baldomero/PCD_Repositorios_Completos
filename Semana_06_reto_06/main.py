@@ -2,7 +2,6 @@ import re
 from typing import Dict, List
 from datetime import datetime
 
-# --- CONFIGURACIÓN ---
 DEPARTAMENTOS_VALIDOS = ['VEN', 'ADM', 'TEC', 'LOG', 'RHH']
 SERIES_VALIDAS = ['A', 'B', 'C', 'D', 'E']
 
