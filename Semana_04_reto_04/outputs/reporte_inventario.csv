@@ -1,5 +1,36 @@
 sku,nombre,categoria,stock_actual,stock_minimo,unidades_faltantes,valor_inventario
-SKU002,Mouse Logitech,Accesorios,3,15,12,1050.00
-SKU005,Audifonos Sony,Accesorios,2,10,8,2400.00
-SKU001,Laptop HP,Electronica,5,10,5,75000.00
-SKU007,SSD 1TB,Almacenamiento,0,5,5,0.00
+SKU00091,Monitor Sony,Electronica,9,50,41,82343.70
+SKU00069,Microfono Logitech,Audio,12,50,38,31845.72
+SKU00009,Notebook Samsung,Electronica,18,50,32,210970.26
+SKU00050,Teclado TP-Link,Accesorios,21,50,29,10776.15
+SKU00045,Teclado LG,Accesorios,3,30,27,2936.40
+SKU00001,Microfono Epson,Audio,1,25,24,1784.02
+SKU00048,MicroSD LG,Almacenamiento,7,30,23,3345.44
+SKU00068,Procesador HP,Componentes,29,50,21,68270.64
+SKU00061,Pantalla Portatil MSI,Electronica,5,25,20,14791.75
+SKU00099,SSD Externo LG,Almacenamiento,1,20,19,1530.98
+SKU00060,MicroSD Asus,Almacenamiento,11,25,14,7419.83
+SKU00064,MicroSD TP-Link,Almacenamiento,1,15,14,274.25
+SKU00007,Teclado Anker,Accesorios,11,25,14,8278.38
+SKU00016,Fuente Poder Gigabyte,Componentes,18,30,12,39528.72
+SKU00033,Tarjeta Video Apple,Componentes,18,30,12,452097.18
+SKU00080,Chromebook Seagate,Electronica,15,25,10,87089.55
+SKU00096,MicroSD Anker,Almacenamiento,5,15,10,637.05
+SKU00087,Monitor Epson,Electronica,15,25,10,59238.90
+SKU00090,Mouse Gigabyte,Accesorios,6,15,9,1976.40
+SKU00049,Audifonos WD,Audio,17,25,8,3114.23
+SKU00010,HDD Anker,Almacenamiento,7,15,8,4222.68
+SKU00002,Ultrabook Lenovo,Electronica,17,25,8,312834.00
+SKU00098,Monitor Epson,Electronica,13,20,7,67641.86
+SKU00075,Laptop Logitech,Electronica,5,10,5,112728.65
+SKU00055,MicroSD HP,Almacenamiento,15,20,5,12342.60
+SKU00024,RAM Canon,Componentes,45,50,5,125601.30
+SKU00054,Monitor Dell,Electronica,1,5,4,10739.41
+SKU00071,Mouse Ergonomico HP,Accesorios,6,10,4,6221.58
+SKU00066,HDD Externo Xiaomi,Almacenamiento,17,20,3,36065.50
+SKU00059,MicroSD,Almacenamiento,7,10,3,1658.65
+SKU00082,USB Drive HyperX,Almacenamiento,12,15,3,1116.24
+SKU00079,Microfono Dell,Audio,48,50,2,62889.60
+SKU00046,Fuente Poder Acer,Componentes,4,5,1,10182.24
+SKU00040,Pantalla Portatil,Electronica,4,5,1,6531.52
+SKU00035,SSD Externo Sony,Almacenamiento,4,5,1,16157.84
